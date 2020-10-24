@@ -1,0 +1,15 @@
+{
+  "name": "auction_system",
+  "version": "1.0.0",
+  "description": "in this project two fields are there first one auction and second one is bidder.auction will auction anny project and bidder will bid the thinks in selected price and should be print max value of bidder within 1 sec it will off if bidder will not say any price\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "nehaisrani",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^14.12.0"
+  }
+}
